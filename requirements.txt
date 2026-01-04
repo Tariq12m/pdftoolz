@@ -1,0 +1,7 @@
+flask
+werkzeug
+PyMuPDF
+pdfplumber
+pandas
+pdf2docx
+python-pptx
